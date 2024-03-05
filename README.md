@@ -10,7 +10,7 @@
 
 <h2>Module Structure</h2>
 
-![CHEESE](images/eks.jpg)
+![CHEESE](images/structure.jpg)
 
 <h2>Terraform Command</h2>
 
